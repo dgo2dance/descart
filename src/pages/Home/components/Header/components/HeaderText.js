@@ -13,7 +13,7 @@ const currentMaps = () =>
 const HeaderText = () => (
   <div className="title-container">
     <h1 className="title">
-      Create your free data map of{' '}
+      创建动态可视化数据视频{' '}
 
       <div className="typist">
         <TypistWrapper words={currentMaps()} />
