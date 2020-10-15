@@ -22,7 +22,7 @@ function HomePage() {
       <GlobalStyles />
 
       <Header>
-        <Navbar className="box-shadow">
+        <Navbar>
           <HamburgerMenu shadowColor="gray" />
         </Navbar>
       </Header>
