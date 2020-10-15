@@ -49,10 +49,12 @@ const HeaderText = () => (
         margin: 40px 0;
         margin-top: 10px;
         background: ${orange300};
-        color: ${darkColor};
+        color: #eeeeee;
         border-radius: 0px;
         border-width: 0;
         width: 200px;
+        font-size:18px;
+
 
       }
 
