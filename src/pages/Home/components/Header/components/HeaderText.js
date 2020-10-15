@@ -46,14 +46,14 @@ const HeaderText = () => (
       }
 
       .button {
-        margin: 20px 0;
+        margin: 40px 0;
         margin-top: 10px;
         background: ${orange300};
         color: ${darkColor};
-        border-radius: 4px;
+        border-radius: 0px;
         border-width: 0;
         width: 200px;
-        box-shadow: 2px 6px 11px 0px ${greyDark};
+
       }
 
       .button:hover {

@@ -11,15 +11,15 @@ const EditorAttributes = () =>
         <div className="row around-xs">
           <AttributeItem
             iconName="sheet.svg"
-            text="upload data"
+            text="上传数据"
           />
           <AttributeItem
             iconName="mixer.svg"
-            text="customize style"
+            text="定制样式"
           />
           <AttributeItem
             iconName="arrows.svg"
-            text="save png/svg"
+            text="保存下载"
           />
         </div>
       </div>
