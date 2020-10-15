@@ -21,7 +21,7 @@ const HeaderText = () => (
     </h1>
 
     <Link href={routes.editor}>
-      <a className="button">go to the editor</a>
+      <a className="button">开始创建</a>
     </Link>
 
     <style jsx>{`
