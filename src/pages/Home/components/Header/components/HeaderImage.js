@@ -5,7 +5,7 @@ function HeaderImage() {
     <div className="image-container">
       <img
         className="image"
-        src="/static/images/landing-page/11111.png"
+        src="/static/images/landing-page/animation_2.gif"
         alt="datamaps-editor"
       />
 
@@ -15,7 +15,7 @@ function HeaderImage() {
       }
 
       .image {
-        max-width: 700px;
+        max-width: 1000px;
         width: 100%;
         height: auto;
       }
